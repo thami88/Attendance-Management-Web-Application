@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+th,td {
+  cursor: pointer;
+  text-align: center;
+}
+
+input { width: 80px; }
