@@ -189,7 +189,7 @@
   <c:forEach items="${list}" var="eRecord">
   
 			  <tbody>
-			    <tr ">
+			    <tr>
 			      		<td  style="font-family:Century Gothic;">${eRecord.id}</td>
 						<td  style="font-family:Century Gothic;">${eRecord.e_id}</td>
 						<td  style="font-family:Century Gothic;">${eRecord.f_name}</td>
